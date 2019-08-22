@@ -1,11 +1,11 @@
 # Sparkify Project
 
 ## Table of Content
-## Installation
-## Project Motivation
-## File Description
-## Results
-## Licensing,Authors and Acknowledgement
+### Installation
+### Project Motivation
+### File Description
+### Results
+### Licensing,Authors and Acknowledgement
 
 
 
