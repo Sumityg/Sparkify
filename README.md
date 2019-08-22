@@ -10,21 +10,27 @@
 
 
 # Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+There project makes use of the following softwares ane libraries:
+Python
+Spark
+Pyspark
+Pandas
+Numpy
+Seaborn
+Matplotlib
+
+If you do not have python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.For running this code on Spark cluster,you can use AWS or IBM cloud
 
 
 # Project Motivation
-For this project, I was interestested in using Seattle Airbnb data to better understand:
-1) How does the price of Seattle Airbnb listing vary throughout the year?When are the prices the highest and where are they lowest?
-2) Which neighborhoods have got the best average ratings from the reviewers?What are the most important factors influencing the ratings of an Airbnb listing?
-3) What are the most important factors influencing the price of an Airbnb listing?
+Sparkify is a music streaming service just as Spotify and Pandora. The data provided is the user log of the service, having demographic info, user activities, timestamps and etc. We try to analyze the log and build a model to identify customers who are highly likely to quit using our service, and thus, send marketing offers to them to prevent them from churning.
 
 # File Description
-There is one notebook available here to showcase work related to the above questions.This notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+There is one notebook available here to showcase work related to using Pyspark to analyse the data and build machine learning models to predict Customer Churn
 
 # Results
 The main findings of the code can be found at the post available [here](https://medium.com/@sumit.yg/analyzing-seattle-s-airbnb-listings-data-49abdc0977c8)
 
 # Licensing,Authors and Acknowledgement
-Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data). Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity for the data. You cannot use this code for your Udacity's capstone project. Otherwise, feel free to use the code here as you would like!
 
