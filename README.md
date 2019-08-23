@@ -29,7 +29,7 @@ Sparkify is a music streaming service just as Spotify and Pandora. The data prov
 There is one notebook available here to showcase work related to using Pyspark to analyse the data and build machine learning models to predict Customer Churn
 
 # Results
-The main findings of the code can be found at the post available [here](https://medium.com/@sumit.yg/analyzing-seattle-s-airbnb-listings-data-49abdc0977c8)
+The main findings of the code can be found at the post available [here](https://medium.com/@sumit.yg/sparkify-predicting-customer-churn-using-pyspark-fa540a515674)
 
 # Licensing,Authors and Acknowledgement
 Must give credit to Udacity for the data. You cannot use this code for your Udacity's capstone project. Otherwise, feel free to use the code here as you would like!
